@@ -9,3 +9,5 @@ to alter table run script sql appropriate
 
 2.  How to deploy spring boot on heroku and login to database 
 https://devcenter.heroku.com/articles/deploying-spring-boot-apps-to-heroku
+
+3.  https://devcenter.heroku.com/articles/connecting-to-relational-databases-on-heroku-with-java
